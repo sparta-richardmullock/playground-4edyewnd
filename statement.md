@@ -1,6 +1,6 @@
 # Welcome!
 
-This C# template lets you get started quickly with a simple one-page playground.
+Here is some test blurb from the "statement.md" file in the GitHub repository.
 
 ```C# runnable
 // { autofold
